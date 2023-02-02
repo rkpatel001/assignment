@@ -1,0 +1,70 @@
+1) Who developed the python language?
+     Guido van Rossum
+
+2)Which type of programming language dose python support ?
+   Python is interpreted language that support object orianted programming lanuguange it can support oops concept.
+
+3)Is python case-sensetive when dealing with identifiers ?
+   Yes python is case-sensetive lanuage it know the differance A to Z and a to z.
+
+4)What is the correct extentation of python file ?
+    The correct extantation of python file is .py
+
+5)Is python code compiled or interprited ?
+    Python code is interprited .
+
+6)Name of blocks of few code that use to define in python language ?
+   A Python program is constructed from code blocks. A block is a piece of Python program text that is executed as a unit.
+   The following are blocks: a module, a function body, and a class definition.
+
+7)State a charachter that useed to give single line comment ?
+    # is used to give single line commnet
+
+8)which function help us to konw the version of python ?
+    The function sys. version can help us to find the version of python.
+
+9)what dose the pip satnd for python ? 
+   Pip stands for "preferred installer program".
+
+10)Mention a few built-in function in python ?
+
+some buil-in function in python
+.count()
+type()
+len()
+.sort()
+.find()
+.extand()
+.append()
+
+
+11) What is the maximum length of identifier in python ?
+       the maximum length of identifier in python is 79 character
+
+12) What are the benefit of using python ?
+    
+Data science.
+Scientific and mathematical computing.
+Web development.
+Finance and trading.
+System automation and administration
+Basic game development.
+Data anylatics
+
+13)how is the memory management in python ?
+      Memory in Python is managed by Python private heap space. All Python objects and data structures are located
+      in a private heap. This private heap is taken care of by Python Interpreter itself, and a programmer doesn't
+      have access to this private heap
+
+14)how to install python in window and set the path of variables ?
+
+First of all downlod the python vesion accroding to our requirment from the browser
+then copy the path of python file 
+go to the advance setting 
+go to the environment variable
+click on the path then creat new
+past your python path to the path.
+
+15)is indentation is require in python ?
+      Indentation is a very important concept of Python because without properly indenting the Python code, you will end up
+      seeing IndentationError and the code will not get compiled.
